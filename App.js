@@ -16,7 +16,7 @@ export default class App extends React.Component {
   }
 
   increase = () => {
-    this.changeCount(50);
+    this.changeCount(78);
   };
 
   render() {
